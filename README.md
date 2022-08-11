@@ -170,6 +170,13 @@ We would endlessly like to thank the following contributors
             <br />
             <sub><b>Jane Waitara</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/weshy007">
+            <img src="https://avatars.githubusercontent.com/u/55465934?v=4" width="100;" alt="weshy007"/>
+            <br />
+            <sub><b>Waithaka Waweru</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
